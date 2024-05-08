@@ -20,7 +20,7 @@ while True:
     
     entrada_usuario = input('''\n== Você gostaria de saber a capital de qual país? ==
                             
-    O nome deve estar em inglês, alguns exemplos:
+    O nome do país deve estar em inglês, alguns exemplos:
 
     Brazil
     Spain
