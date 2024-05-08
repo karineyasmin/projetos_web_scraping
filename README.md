@@ -1,2 +1,2 @@
 # projetos_web_scraping
-Repositório dedicado a projeto de Web Scraping com Python.
+Repositório dedicado a projetos de Web Scraping com Python.
